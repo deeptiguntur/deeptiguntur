@@ -40,6 +40,7 @@ My name is Deepti Guntur and I am pleased to meet you!!!!
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-0A66C2?style=flat-square&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-ed0c8f?style=flat-square&logo=githubactions&logoColor=white)
 
 **🎨 Frontend**
 
