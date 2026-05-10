@@ -13,6 +13,7 @@ My name is Deepti Guntur and I am pleased to meet you!!!!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deeptiguntur)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deeptiguntur)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deeptiguntur25@gmail.com)
+[![Website](https://img.shields.io/badge/Portfolio-0b4d01?style=for-the-badge&logo=googlechrome&logoColor=white)](https://deeptiguntur.github.io/)
 [![arXiv](https://img.shields.io/badge/arXiv-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white)](https://arxiv.org/abs/2603.12396)
 
 </div>
